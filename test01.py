@@ -38,6 +38,6 @@ c=int(input("请输入年龄："))
 d={"name":a,"sex":b,"age":c}
 print(d)
 
-
+print(d[1])
 
 
